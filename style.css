@@ -3,9 +3,10 @@ body {
 }
 
 .intro {
-  padding-left: 30px;
-  padding-right: 30px;
-  margin-left: 256px;
-  margin-right: 256px;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin-left: 25.6rem;
+  margin-right: 25.6rem;
   background-color: white;
+  color: #354159;
 }
